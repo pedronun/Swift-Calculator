@@ -1,6 +1,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    
     @State var values = "0"
     @State var decimal = 0.0
     @State var result = 0.0
